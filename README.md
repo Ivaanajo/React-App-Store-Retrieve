@@ -1,5 +1,6 @@
 # React-App-Store-Retrieve
 App developed in React to store and retrieve data. can be used for customer feed or for any purpose of record to store and retrieve.
+
 This is a simple function App developed as my 1st project to learn React and easy to develop as a beginner 
 plain react code and no stylers (CSS) are applied to the app
 The basic details of the app include a home page, Add customer page, and Customer list page 
