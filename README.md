@@ -16,8 +16,13 @@ The process is 1st you add the customer by filling in the details and by the cli
 
 # Run Project 
 open code in your choice of editor.
+
 open Terminal 
+
 go to the path of the project cd: E:\Projects
+
 Type run command npm install
+
 then run npm start
+
 Open any of your browsers to check the result in localhost Port: 3000
