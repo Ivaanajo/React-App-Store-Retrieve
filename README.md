@@ -15,9 +15,9 @@ In this image, a demo of user details was added and stored in the customer table
 The process is 1st you add the customer by filling the details and by the click of the add customer you data is feeded to the member list and later you send the data to store and retrieve it to the customer list for storage and use.
 
 # Run Project 
-open code in your choice of editor
+open code in your choice of editor.
 open Terminal
 go to the path of the project cd: E:\Projects
 Type run command npm install
 then run npm start
-Open any of your browser to check the result in localhost Port: 3000
+Open any of your browsers to check the result in localhost Port: 3000
